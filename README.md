@@ -23,6 +23,8 @@ Module with functions to interact with Snow Atlas
 
 ## Get-SnowAtlasUserInfo
 
+# Examples
+
 # Repository
 
 This module is maintained in the GitHub Repository found [here](https://github.com/SnowSoftware/snowatlas-module-SnowAtlasHelper).
